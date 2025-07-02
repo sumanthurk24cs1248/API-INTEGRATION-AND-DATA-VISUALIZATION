@@ -7,6 +7,10 @@
 * MENTOR : NEELA SANTOSH
 *  YOU HAVE TO ENTER DESCRIOTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 *  OUTPUT : ![Image](https://github.com/user-attachments/assets/3bf3bbc6-d9d9-4116-a46a-258db72a4f1f)
+  
+*  ![Image](https://github.com/user-attachments/assets/9fd76d7a-49bd-49f0-b594-d91234b8ab19)
+
+*   [Image](https://github.com/user-attachments/assets/850d4f35-cb91-4ab5-8318-62517acda610)
 
 * API Integration
 API, short for Application Programming Interface, is a set of rules and protocols that allow different software systems to communicate with each other. API integration refers to the process of connecting two or more applications via their APIs to allow data exchange and coordinated functionality.
