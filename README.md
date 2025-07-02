@@ -50,6 +50,10 @@ Heatmaps: Effective for representing density or intensity.
 
 Dashboards: Aggregate different visualizations for a comprehensive view.
 
+* B.SUMANTH
+* COMPANY : CODTECH IT SOLUTION
+* EMAIL : sumanthboddupally442@GMAIL.com
+
 
 
 
